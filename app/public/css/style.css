@@ -1,0 +1,15 @@
+.bg-blue
+{
+    background-color:#00acee;
+}
+
+.navbar-light .navbar-brand
+{
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+    font-size: 1.2em;
+}
+
